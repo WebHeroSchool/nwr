@@ -1,0 +1,20 @@
+header {
+  background: beige;
+}
+
+section {
+  background: beige;
+}
+
+article {
+  border: dashed 3px orange;
+}
+
+aside {
+    border: dashed 3px orange;
+}
+
+footer {
+  background: orange;
+  border: dashed 3px orange;
+}

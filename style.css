@@ -1,20 +1,49 @@
 header {
   background: beige;
+  text-align: center;
+  color: maroon;
+}
+
+nav {
+  text-align: center;
+}
+
+cite {
+  font-size: 25px;
+  text-align: justify;
 }
 
 section {
   background: beige;
 }
 
-article {
-  border: dashed 3px orange;
+h1 {
+  font-size: 20px;
+  color: maroon;
 }
 
+h2 {
+  font-size: 35px;
+}
+
+img {
+  width: 250px;
+}
+
+article {
+  border: dashed 3px orange;
+  text-align: justify;
+
+    padding-left: 10px; /* Отступ слева */
+    padding-bottom: 300px; /* Отступ снизу */
+   }
+ 
 aside {
-    border: dashed 3px orange;
+  border: dashed 3px orange;
 }
 
 footer {
   background: orange;
   border: dashed 3px orange;
 }
+
